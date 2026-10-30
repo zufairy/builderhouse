@@ -1,2 +1,3 @@
-# builderhouse
-Builder House Kajang - coworking membership landing page
+# Builder House Kajang
+
+Static landing page. `site/` is the deployable output; the Dockerfile serves it with nginx on Railway.
